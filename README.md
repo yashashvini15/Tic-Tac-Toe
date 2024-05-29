@@ -8,8 +8,6 @@ Welcome to the Tic Tac Toe game project! This project is a simple implementation
 - [Installation](#installation)
 - [Usage](#usage)
 - [Game Rules](#game-rules)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## **Features**
 - Two-player game mode.  
