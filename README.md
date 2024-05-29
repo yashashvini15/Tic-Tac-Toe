@@ -1,6 +1,6 @@
 
-<b>Tic Tac Toe Game</b><break/>
-: Welcome to the Tic Tac Toe game project! This project is a simple implementation of the classic Tic Tac Toe game using Java and Java Swing for the graphical user interface (GUI). It allows two players to play the game on a 3x3 grid, taking turns to mark the cells and determining the winner or a draw.
+#Tic Tac Toe Game
+Welcome to the Tic Tac Toe game project! This project is a simple implementation of the classic Tic Tac Toe game using Java and Java Swing for the graphical user interface (GUI). It allows two players to play the game on a 3x3 grid, taking turns to mark the cells and determining the winner or a draw.
 
 Table of Contents
 Features
@@ -16,11 +16,11 @@ Simple and intuitive graphical user interface using Java Swing.
 Checks for winning conditions and draw.
 Clear instructions and prompts for players.
 
-<break/><b>Requirements</b><break/> :
+##Requirements
 Java Development Kit (JDK) 1.8 or higher
 NetBeans IDE (or any other preferred Java IDE)
 
-<break/><b>Installation</b><break/>
+##Installation
 Clone the repository:
 
 bash
@@ -43,10 +43,7 @@ Player 1 is X, and Player 2 is O. Players take turns putting their marks in empt
 The first player to get 3 of their marks in a row (up, down, across, or diagonally) is the winner.
 When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a draw.
 
-<break/><strong>License</strong><breack/>
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Enjoy playing Tic Tac Toe! If you have any questions or feedback, feel free to open an issue.
 
-Example Gameplay
+##Example Gameplay
 When you run the project, you will see a graphical window with a 3x3 grid. Players take turns clicking on the empty squares to place their marks (X or O). The game will automatically check for winning conditions and announce the winner or a draw.
