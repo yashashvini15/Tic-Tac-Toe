@@ -1,6 +1,6 @@
 
 <b>Tic Tac Toe Game</b><break/>
-Welcome to the Tic Tac Toe game project! This project is a simple implementation of the classic Tic Tac Toe game using Java and Java Swing for the graphical user interface (GUI). It allows two players to play the game on a 3x3 grid, taking turns to mark the cells and determining the winner or a draw.
+: Welcome to the Tic Tac Toe game project! This project is a simple implementation of the classic Tic Tac Toe game using Java and Java Swing for the graphical user interface (GUI). It allows two players to play the game on a 3x3 grid, taking turns to mark the cells and determining the winner or a draw.
 
 Table of Contents
 Features
@@ -16,7 +16,7 @@ Simple and intuitive graphical user interface using Java Swing.
 Checks for winning conditions and draw.
 Clear instructions and prompts for players.
 
-<break/><b>Requirements</b><break/>
+<break/><b>Requirements</b><break/> :
 Java Development Kit (JDK) 1.8 or higher
 NetBeans IDE (or any other preferred Java IDE)
 
